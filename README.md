@@ -26,3 +26,8 @@ The details of the first 100 people will be posted here.
 #3 dreamy-@gmail.com, 10000 MGPC, sent, 705e86f5636b4551db8b3a875a9eab50e39e588835ef6819134e52cab9102744
 
 #4 alex.20.10-@gmail.com, 10000 MGPC, sent, e3436f7ae1296b9ccb4965634df1f07839797a6a0ea1827af48ebdd1f15e3419
+
+#5 christoph-@gmail.com, 10000 MGPC, sent, fd78061958b5cb437fc5f0e7bc3e96f27648186a021e9238013094b54d5e5890
+
+#6 diogla-@gmail.com, 10000 MGPC, sent, e4bca201c1821b67972a6994ce975816088b2002e7e0f7d3319f4b898dd15361
+
