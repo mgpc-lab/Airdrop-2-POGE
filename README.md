@@ -17,7 +17,7 @@ Please send me simple arithmetic questions.
 Regards,
 Your title and name
 ----------------------
-The details of the first 200 people will be posted here.
+The details of the first 200 people of Airdrop-2-POGE will be posted here.
 
 #1 d9e3448350fa5f29a3280457b7a4dce423c289bdbf6007243ac255fcbf787fd9
 
